@@ -11,3 +11,6 @@ This is a project with an implentation of the popular Marching Cubes algorithm i
 
  Anyone can use this implementation for any reason. It would be cool for you to reach out and
  let me know what you are using it for, but it's not required to use it.
+ 
+ ## Screenshot
+ ![Screenshot of Example Scene](https://github.com/RyanRemer/MarchingCubesGodot/blob/main/ExampleScreenshot.png?raw=true)
